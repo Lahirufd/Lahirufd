@@ -63,11 +63,16 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lahirufd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirufd&theme=tokyonight" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahirufd&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+### 🧾 Profile Summary
+<img src="https://github-readme-stats.vercel.app/api?username=Lahirufd&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+### 🔥 Contribution Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lahirufd&theme=tokyonight" alt="GitHub Streak" />
+
+### 🧑‍💻 Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lahirufd&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 ---
