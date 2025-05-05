@@ -23,6 +23,7 @@
 ---
 
 ## 🚀 Tech Stack
+<span style="font-size: 4px; font-weight: normal;">(Languages, Backend & Tools, IoT & Robotics, Frontend, Databases, Tools & DevOps, Data Visualization)</span>
 
 <p align="center">
   <!-- Languages -->
