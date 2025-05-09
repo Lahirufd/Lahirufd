@@ -18,7 +18,7 @@
 - 🧠 Passionate about: Solving real world problems with code, Building automation and smart systems, Backend systems architecture
 - 💬 Ask me about: **Java**, **Spring Boot**, **Firebase**, **Arduino**, **React**
 - 📫 Reach me at: **lahirufernando802@gmail.com**
-- 🌍 Portfolio: **[lahirufd.github.io](https://lahirufd.github.io)**
+<!-- - 🌍 Portfolio: **[lahirufd.github.io](https://lahirufd.github.io)** -->
 
 ---
 
