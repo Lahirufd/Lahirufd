@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 🔭 Currently working on: **[Spare Parts Hub](https://github.com/Lahirufd/SparePartsHub-WebApplication.git)** – a microservices-based Spring Boot web app for Tele Group (Pvt) Ltd.
+<!-- - 🔭 Currently working on: **[Spare Parts Hub](https://github.com/Lahirufd/SparePartsHub-WebApplication.git)** – a microservices-based Spring Boot web app for Tele Group (Pvt) Ltd. -->
 - 🌱 Currently learning: **Machine Learning**, **Python**, and **Power BI**
 - 🤝 Open to collaboration on: Java/Spring Boot backend development, Mobile applications (Android/Firebase), IoT projects (Arduino)
 - 🧠 Passionate about: Solving real world problems with code, Building automation and smart systems, Backend systems architecture
@@ -113,9 +113,9 @@
   <a href="https://linkedin.com/in/lahiru-fernando-8485102bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://Lahirufd.github.io" target="_blank">
+  <!-- <a href="https://Lahirufd.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
+  </a> -->
 </p>
 
 ---
